@@ -12,7 +12,7 @@
 
 ### App Walk-though
 
-<img src="[YOUR_GIF_URL_HERE](https://github.com/deninis170/FlashCard/blob/main/lab1.gif)" width=200><br>
+<img src="https://github.com/deninis170/FlashCard/blob/main/lab1.gif" width=200><br>
 
 ## Required
 - [x] Create New Project in Android Studio
